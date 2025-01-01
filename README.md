@@ -14,8 +14,8 @@ Operating Systems I Aim to Develop Software For: Linux, OS X, BSD
 Currently, I don't have active projects on GitHub, but I plan to share my work here in the future.
 
 🎮 Hobbies:
-
 Reading books
 Watching movies
 Researching and learning new things
+
 📧 Contact: me.isa4@protonmail.com

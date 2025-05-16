@@ -1,1 +1,1 @@
-You can reach me via email: [me.isa4@protonmail.com](mailto:me.isa4@protonmail.com)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-programmer)](https://github.com/isa-programmer)

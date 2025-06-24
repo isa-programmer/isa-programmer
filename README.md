@@ -1,5 +1,25 @@
-![isa-programmer's Stats](https://github-readme-stats.vercel.app/api?username=isa-programmer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+# Hi there, I'm isa-programmer 👋
 
-![isa-programmer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isa-programmer&theme=vue-dark&hide_border=true)
+Welcome to my GitHub profile!
 
-![isa-programmer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isa-programmer&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+- 🧑‍💻 I'm passionate about programming, automation, and open source.
+- 🛠️ Here you'll find my projects, experiments, and contributions.
+- 🌱 Currently learning and exploring new technologies.
+
+## 📈 GitHub Stats
+
+![isa-programmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa-programmer&show_icons=true&theme=github_dark)
+
+## ✨ Featured Projects
+
+- [yt-api-wrapper](https://github.com/isa-programmer/yt_api_wrapper)
+- [githubfetch](https://github.com/isa-programmer/repo2)
+
+
+## 📫 How to reach me
+
+- [Email](mailto:isaprogrammer@proton.me)
+- [X (Twitter)](https://twitter.com/isa_programmer0)
+- [Reddit](https://reddit.com/user/isa-programmer)
+
+---

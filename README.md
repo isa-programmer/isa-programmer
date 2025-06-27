@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 ## ✨ Featured Projects
 
 - [yt-api-wrapper](https://github.com/isa-programmer/yt_api_wrapper)
-- [githubfetch](https://github.com/isa-programmer/repo2)
+- [githubfetch](https://github.com/isa-programmer/githubfetch)
 
 
 ## 📫 How to reach me
@@ -21,5 +21,5 @@ Welcome to my GitHub profile!
 - [Email](mailto:isaprogrammer@proton.me)
 - [X (Twitter)](https://twitter.com/isa_programmer0)
 - [Reddit](https://reddit.com/user/isa-programmer)
-
+- [Matrix](https://matrix.to/#/@isa_programmer:matrix.org)
 ---

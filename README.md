@@ -14,6 +14,7 @@ Welcome to my GitHub profile!
 
 - [yt-api-wrapper](https://github.com/isa-programmer/yt_api_wrapper)
 - [githubfetch](https://github.com/isa-programmer/githubfetch)
+- [goscan](https://github.com/isa-programmer/goscan)
 
 
 ## 📫 How to reach me
